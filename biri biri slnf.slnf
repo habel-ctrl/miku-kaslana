@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "Habel\\c%23%20and%20other%20stuff\\adventure%20of%20biris\\the%20adventure%20of%20biri%20biri\\the%20adventure%20of%20biri%20biri.sln",
+    "projects": [
+      "..\\engines\\engines.csproj",
+      "the adventure of biri biri.csproj"
+    ]
+  }
+}
